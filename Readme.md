@@ -2,6 +2,7 @@
 
 * Студент: [Николай Коновалов](https://up.htmlacademy.ru/adaptive-individual/2/user/2145995).
 * Наставник: `Оксана Вайнруб`.
+https://htmlacademy.ru/profile/id166797
 
 ---
 
